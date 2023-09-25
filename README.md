@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SUNG_CORGI&fontSize=90)
 
 
-🌈 Welcome to SUNG_CORGI 👋
+### 🌈 Welcome to SUNG_CORGI 👋
 <a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ssyeon612&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Seungyeon's github stats" /></a>
 <a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeon612&layout=compact&theme=nord&hide_border=true" /></a> 
 
