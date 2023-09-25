@@ -2,7 +2,7 @@
 
 
 ### 🌈 Welcome to SUNG_CORGI 👋
-#### I am Frontend Developer
+#### I am Frontend Developer 🙋🏻‍♀️
 <a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ssyeon612&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Seungyeon's github stats" /></a>
 <a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeon612&layout=compact&theme=nord&hide_border=true" /></a> 
 
