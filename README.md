@@ -1,21 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SUNG_CORGI&fontSize=90)
 
-<!--
-**ssyeon612/ssyeon612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌈 Welcome to SUNG_CORGI 👋
+<a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ssyeon612&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Seungyeon's github stats" /></a>
+<a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeon612&layout=compact&theme=nord&hide_border=true" /></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-🔨 STACK 🔧
-Techs that I've used at least once
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white" />
 
+### 🛠 Languages and Tools
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/nuxtdotjs-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+
+### Connect with me:
+
+[<img align="left" alt="SEUNYEON | tistory" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
+[<img align="left" alt="SEUNYEON | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+
+[website]: https://yeongseungjeong.tistory.com/
+[instagram]: https://instagram.com/seungyo._.da
