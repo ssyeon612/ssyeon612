@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNG_CORGI&fontSize=90)
-
-
-### 🌈 Welcome to SUNG_CORGI 👋
+### 🌈 HI, I'M STELLA JEONG 👋
 #### I am Frontend Developer 🙋🏻‍♀️
 <a href="https://github.com/ssyeon612"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyeon612&layout=compact&theme=nord&hide_border=true" /></a> 
 
@@ -14,8 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SEUNYEON | tistory" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SEUNYEON | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="SEUNGYEON | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="SEUNGYEON | blog" width="48px" height="48" src="https://img.icons8.com/doodle/48/blogger--v1.png" alt="blogger--v1"/>][blog]
+[<img align="left" alt="SEUNGYEON | portfolio" width="48" height="48" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume" />][portfolio]
 
-[website]: https://yeongseungjeong.tistory.com/
 [instagram]: https://instagram.com/seungyo._.da
+[blog]: https://yeongseungjeong.tistory.com
+[portfolio]: https://seungyeonj.netlify.app
