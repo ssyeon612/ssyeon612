@@ -1,5 +1,4 @@
 ### 🌈 HI, I'M SEUNGYEON JEONG 👋
-👩🏻‍💻 I am Frontend Developer
 
 
 ### 🛠 Languages and Tools
