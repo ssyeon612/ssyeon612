@@ -21,7 +21,7 @@
 
 **Testing**
 <p>
-  ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+   <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <span>appium</span>
 </p>
 
